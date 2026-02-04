@@ -1,1 +1,1 @@
-foo
+B changed this SAME line
